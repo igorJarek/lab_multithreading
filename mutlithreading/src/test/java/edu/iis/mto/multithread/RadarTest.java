@@ -15,4 +15,5 @@ public class RadarTest {
         verify(batteryMock).launchPatriot();
     }
 
+
 }
